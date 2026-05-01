@@ -1,7 +1,7 @@
 {
-  "latestVersion": "2.20.13",
-  "latestVersionCode": 75,
-  "downloadUrl": "https://github.com/TacioAguiar/prisma-hub-releases/releases/download/v2.20.13/prisma-hub-v2.20.13.apk",
-  "releaseNotes": "Versão 2.20.13 disponível.",
+  "latestVersion": "2.20.16",
+  "latestVersionCode": 78,
+  "downloadUrl": "https://github.com/TacioAguiar/prisma-hub-releases/releases/download/v2.20.16/prisma-hub-v2.20.16.apk",
+  "releaseNotes": "Versão 2.20.16 disponível.",
   "updatedAt": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 }
